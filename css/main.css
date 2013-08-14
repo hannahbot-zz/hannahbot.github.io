@@ -7,6 +7,10 @@ body{
   text-align:center;
 }
 
+.special{
+   color:#00CC99;
+}   
+
 .wrapper{
    width:420px;
    margin:0 auto;
